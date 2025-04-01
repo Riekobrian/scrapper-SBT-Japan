@@ -1,0 +1,621 @@
+id,model_name,year,selling_price,mileage,color,condition,engine_size,transmission_type,fuel_type,body_type,drive_type,interior,description,sold,featured,slug
+378,toyota-land cruiser,2023,21000000,13000,black,Foreign used,3346,Automatic,Diesel,SUV,4WD,Leather,"Experience the perfect blend of legendary off-road capability and modern luxury. This flagship SUV excels both in urban environments and challenging terrains.
+
+Recently imported and in like-new condition.
+
+**Specification:**
+
+- 3.3L V6 Twin-Turbo Diesel Engine (309 HP & 700 Nm of Torque)
+- 10-speed Direct Shift Automatic Transmission
+- Full-Time 4WD with Torsen Limited-Slip Center Differential
+- Mileage: 13,000 Km
+
+**Features:**
+
+- 20-inch Alloy Wheels
+- Premium Leather Interior with Wood Trim Finish
+- Heated & Ventilated Front and Second-Row Seats
+- 12.3-inch Touchscreen Infotainment System
+- 14-speaker JBL Premium Sound System
+- Apple CarPlay & Android Auto
+- 360° Camera System with Multi-Terrain Monitor
+- Off-Road Features:
+    - Multi-Terrain Select with Auto Mode
+    - Crawl Control with Turn Assist
+    - Downhill Assist Control
+    - Electronic Differential Locks
+- Toyota Safety Sense 2.5:
+    - Pre-Collision System with Pedestrian Detection
+    - Dynamic Radar Cruise Control
+    - Lane Departure Alert with Steering Assist
+    - Lane Tracing Assist
+- Luxury & Convenience:
+    - Panoramic Sunroof
+    - 4-Zone Automatic Climate Control
+    - Power-adjustable Steering Column
+    - Hands-free Power Tailgate",False,True,toyota-land-cruiser-ga3bn
+377,volkswagen-touareg,2013,3400000,120000,silver,Locally used,3000,Automatic,Diesel,SUV,AWD,Leather,"Looking for a luxurious and reliable SUV? This 2013 Volkswagen Touareg 3.0 TDI V6 is the perfect choice. Powered by a 3.0L Turbo Diesel V6 engine producing 240 HP and 550 Nm of torque, paired with a 6-speed automatic transmission and 4MOTION all-wheel drive system.
+
+This mint-condition vehicle has covered 82,800 miles and features new Goodyear all-terrain tires and a complete service history from both local and country of origin markets. It has had only one owner since importation.",False,True,volkswagen-touareg-50zvb
+376,toyota-rav4,2019,4800000,65500,silver,Foreign used,2000,Automatic,Petroleum,SUV,4WD,Cloth,-,False,False,toyota-rav4-2tya9
+375,toyota-axio,2017,1750000,83000,silver,Foreign used,1500,Automatic,Petroleum,Saloon,2WD,Cloth,-,False,False,toyota-axio-hfit1
+374,toyota-rav4,2008,1600000,107583,black,Locally used,2400,Automatic,Petroleum,Mini SUV,2WD,Cloth,-,False,False,toyota-rav4-ffbfg
+373,toyota-mark x,2016,2100000,136770,red,Foreign used,2500,Automatic,Petroleum,Saloon,2WD,Cloth,-,False,False,toyota-mark-x-tsxor
+372,mercedes-benz-e250,2015,4100000,42000,black,Locally used,1990,Automatic,Petroleum,Coupes,2WD,Leather,"Slightly locally used, in Pristine Condition.",False,False,mercedes-benz-e250-8g5js
+371,toyota-land cruiser prado,2018,6500000,52000,gray,Foreign used,2700,,Petroleum,SUV,4WD,Cloth,-,False,True,toyota-land-cruiser-prado-wm2pn
+370,suzuki-alto,2017,790000,91200,white,Foreign used,660,Automatic,Petroleum,Hatchback,2WD,Cloth,-,False,False,suzuki-alto-97o2k
+369,mazda-cx-5,2018,3300000,62400,gray,Foreign used,2200,Automatic,Diesel,SUV,AWD,Cloth,-,False,False,mazda-cx-5-b63zg
+368,mazda-cx-5,2018,3300000,52800,white,Foreign used,2000,Automatic,Petroleum,SUV,AWD,Cloth,-,False,True,mazda-cx-5-ezkjp
+367,mercedes-benz-c200,2007,1250000,152000,white,Locally used,1800,Automatic,Petroleum,Saloon,2WD,Leather,"2007 Mercedes Benz C200 Kompressor 
+Specification: 1800cc Petrol | 2WD | Automatic
+
+Super Clean & Well Maintained.
+
+Features: Half Leather Interior, Multi-Function Steering Wheel, Infotainment Screen, Front and Side Airbags, Power Windows, Electric Mirrors, Dual Zone A/C, ESP (Electronic Stability Program), Fog Lights, Alloy Wheels, and much more.",False,False,mercedes-benz-c200-6zcs5
+366,mazda-cx-5,2014,1880000,160000,white,Locally used,2200,Automatic,Diesel,SUV,AWD,Cloth,"Extras: New Bridgestone Off Road Tyres & Pioneer Radio Android Screen with Apple Carplay / Android Auto.
+
+Well Maintained, Accident Free,",False,True,mazda-cx-5-lhquz
+365,subaru-outback,2015,2200000,83000,gray,Locally used,2500,Automatic,Petroleum,Wagon,AWD,Cloth,"Extra Features: Android Radio, Bluetooth Connectivity, New Tyres.
+
+Super Clean, Well Maintained.",False,True,subaru-outback-3hfev
+364,toyota-noah,2000,650000,200100,silver,Locally used,1990,Automatic,Petroleum,Minivan,2WD,Cloth,"One owner since import, Well Maintained, Accident Free.",False,False,toyota-noah-s0ai5
+363,audi-a4,2016,2800000,104000,white,Foreign used,2000,Automatic,Petroleum,Hatchback,AWD,Leather,-,False,False,audi-a4-efd5t
+362,honda-vezel / hr-v,2017,2550000,113000,purple,Foreign used,1495,Automatic,Petroleum,SUV,2WD,Leather,-,False,False,honda-vezel-/-hr-v-zuywe
+361,toyota-noah,2017,2400000,97000,white,Foreign used,2000,Automatic,Petroleum,Minivan,2WD,Cloth,-,False,False,toyota-noah-ov1iu
+360,toyota-harrier,2015,2800000,118000,black,Locally used,2000,Automatic,Petroleum,SUV,2WD,Leather,-,False,False,toyota-harrier-cnt8z
+359,toyota-harrier,2018,3700000,55000,black,Foreign used,2000,Automatic,Petroleum,SUV,2WD,Leather,-,False,True,toyota-harrier-40u0u
+358,toyota-noah,2017,2750000,87000,black,Foreign used,2000,Automatic,Petroleum,Minivan,2WD,Cloth,"2017 Toyota Noah Now in Stock ⚓️
+
+Super Clean Unit with TRD Body Kit.
+
+## Key Features:
+
+- 7-Seater
+- Power Sliding Door
+- Multi-Function Steering Wheel
+- Cruise Control
+- Rear Multi-Media Screen
+- Rear A/C
+
+This versatile family vehicle offers both style and functionality. Contact us for more information or to schedule a viewing.",False,False,toyota-noah-zwdfe
+357,toyota-harrier,2018,3800000,97000,purple,Foreign used,2000,Automatic,Petroleum,SUV,4WD,Alcantara,"Introducing the 2018 Toyota Harrier GR Sport - the perfect mid-sized SUV that combines utility, reliability, and sportiness in one impressive package. Equipped with All-Wheel Drive, this model offers improved traction and stability across various driving conditions.
+
+If you're looking for a vehicle that offers both style and substance, this is it.
+
+Main Features:
+
+- Panoramic Sunroof
+- GR Sport Leather/Alcantara Seats with Lumbar Support
+- GR Sport Bodykit
+- GR Sport Multi-Function Steering
+- GR Sport Brake kit
+- 19” Alloy Wheels
+- Adaptive Cruise Control
+- Powered Driver’s Seat
+- LED Headlights
+- Rear View Camera and much more.",False,False,toyota-harrier-pmya8
+356,toyota-vitz,2017,1300000,112000,black,Foreign used,1300,Automatic,Petroleum,Hatchback,AWD,Cloth,-,False,False,toyota-vitz-uewip
+355,mazda-demio,2017,1300000,126000,white,Foreign used,1297,Automatic,Petroleum,Hatchback,2WD,Cloth,-,False,False,mazda-demio-q2ao4
+354,mazda-cx-5,2017,3350000,83000,white,Foreign used,2200,Automatic,Diesel,SUV,2WD,Cloth,"Features:
+
+- BOSE Sound System and Sub Woofer (Factory)
+- MAZDA CONNECT Infotainment System
+- Bluetooth Connectivity
+- Sunroof
+- Push to Start
+- Heads Up Display
+- Heated Seats
+- Powered Tailgate
+- Blind Spot Monitor
+- Parking Sensors
+- Alloy Rims and much more.",False,False,mazda-cx-5-nv0cl
+353,toyota-land cruiser,2023,18000000,11,black,New,3500,Automatic,Petroleum,SUV,4WD,Leather,"Available for import from Japan 🇯🇵
+
+2023 Toyota LandCruiser 300 GR Sport 
+
+Specification: 3.5L Twin Turbo Charged Petrol Engine, 4WD, 10 Speed Automatic.
+
+Brand New",False,False,toyota-land-cruiser-wgy2o
+352,land rover-vogue,2023,31000000,25000,brown,Ready for Import,3000,Automatic,Petroleum,SUV,AWD,Leather,"Ready to Import from the UK 🇬🇧 
+
+2023 Range Rover Vogue P400 SE
+
+3.0L Turbo Petrol, AWD, 8 Speed Automatic.
+Mileage: 16,000 Miles
+
+Key Features:
+
+- Panoramic Roof
+- 13.1"" Touchscreen with Apple CarPlay and Android Auto
+- 3D Surround camera system with advanced features
+- All-Wheel Drive (AWD)
+- Heads-up Display and Interactive driver display
+- Meridian sound system
+- Adaptive cruise control with steering assist
+- Digital LED headlights with signature DRL
+- Wireless device charging with phone signal booster
+- Terrain Response and much more.",False,False,land-rover-vogue-lod3k
+351,bmw-x4,2016,4500000,66000,black,Foreign used,2000,Automatic,Petroleum,SUV,AWD,Leather,-,False,False,bmw-x4-njzeh
+350,honda-vezel,2017,2650000,93000,dark_green,Foreign used,1500,Automatic,Petroleum,SUV,AWD,Cloth,-,False,False,honda-vezel-t7we7
+349,toyota-land cruiser,2018,6900000,64000,black,Foreign used,2700,Automatic,Petroleum,SUV,4WD,Cloth,-,False,False,toyota-land-cruiser-x25ku
+348,toyota-harrier,2018,3650000,67000,black,Foreign used,2000,Automatic,Petroleum,SUV,2WD,Leather,-,True,False,toyota-harrier-b5g0j
+347,honda-vezel / hr-v,2017,1650000,93000,dark_green,Foreign used,1500,Automatic,Petroleum,SUV,AWD,Cloth,-,False,False,honda-vezel-/-hr-v-uy66e
+346,honda-vezel / hr-v,2017,2650000,93000,green,Foreign used,1500,Automatic,Petroleum,SUV,AWD,Cloth,-,False,False,honda-vezel-/-hr-v-bzizp
+345,toyota-mark x,2017,2250000,70000,white,Foreign used,2500,Automatic,Petroleum,Saloon,2WD,Cloth,Auction Grade: 4.5,False,False,toyota-mark-x-qf81e
+344,toyota-fielder,2017,1880000,113000,white,Foreign used,1500,Automatic,Petroleum,Wagon,2WD,Cloth,-,False,False,toyota-fielder-q0yql
+343,toyota-fortuner,2017,6400000,83000,bronze,Foreign used,2800,,,SUV,4WD,Leather,-,False,False,toyota-fortuner-ggz5y
+342,toyota-harrier,2018,3850000,86700,black,Foreign used,2000,Automatic,Petroleum,Mini SUV,2WD,Leather,-,False,False,toyota-harrier-v5nsg
+341,toyota-rav4,2019,4900000,77000,black,Foreign used,2000,Automatic,Petroleum,SUV,4WD,Leather,"Embark on a journey beyond the beaten path with the 2019 Toyota RAV4 Adventure - a great choice for off-road enthusiasts and adventure seekers. 
+As the only 2019 RAV4 trim offering standard all-wheel drive, the Adventure model is purpose-built for those who crave excitement off the asphalt.",False,False,toyota-rav4-w6tvy
+340,nissan-x-trail,2017,2450000,88000,white,Foreign used,2000,Automatic,Petroleum,SUV,4WD,Leather,-,False,False,nissan-x-trail-trdqq
+339,toyota-harrier,2017,3700000,55000,white,Foreign used,2000,Automatic,Petroleum,Mini SUV,2WD,Leather,"2017 Toyota Harrier Premium Advance Package (JBL)
+55,000 km on the clock.
+- Panoramic Sunroof & Leather Interior
+- Factory JBL Premium Sound System with Subwoofer
+- Adaptive Front Lighting System
+- Safety: Lane Assist, Anti-Collision Assist
+- Convenience: Push to Start, Powered Tailgate, Powered Seats",False,False,toyota-harrier-331k2
+338,toyota-auris,2016,1820000,107000,silver,Foreign used,1500,Automatic,Petroleum,Hatchback,2WD,Alcantara,"Toyota Auris - Now In Stock ⚓️
+Efficient 1800cc Petrol Hybrid Engine, 2WD, Automatic
+Features: 
+- Half Leather Interior
+- Multi-Function Steering
+- Alloy Rims",False,True,toyota-auris-ntdxe
+337,toyota-land cruiser,2017,9600000,81000,black,Foreign used,4700,Automatic,Petroleum,SUV,4WD,Leather,"In the realm of genuinely capable SUVs, few options stand out like the Land Cruiser V8, with a body-on-frame design, this 2017 LandCruiser demonstrates its readiness to venture off the beaten path. Combine this with a spacious interior accommodating up to eight passengers in luxurious comfort, and you have one of the most coveted SUVs in the market today.",False,True,toyota-land-cruiser-fiq7d
+336,jaguar-f-pace,2022,17400000,17000,green,Ready for Import,5000,Automatic,Petroleum,SUV,AWD,Leather,"2022 Jaguar F-Pace SVR V8 🔥🔥
+
+Ready to Import from Japan 🇯🇵
+
+✨ TOTAL COST TO NAIROBI: KSHS 17,400,000 ✨
+
+DEPOSIT 30%.
+
+Specifications:
+
+5000cc Petrol Supercharged V8 Engine
+8 Speed Automatic Transmission
+Mileage: 17,000 km
+⚡️ 550 BHP with 700NM of Torque ⚡️
+
+Features:
+
+- Panoramic Sunroof
+- 360 Degree Parking Aid
+- Meridian Surround Sound System
+- Quad Tailpipes
+- Interactive Driver Display
+- 10in Touch Pro Centre Console
+- 14-Way Electric Memory Front Seats
+- Wireless Charging
+- Red Jaguar Brake Calipers
+- All Surface Progress Control
+- Jaguar Adaptive Dynamics
+- Ambient Interior Lighting
+- Android Auto
+- Apple CarPlay
+- Approach Illumination
+- Auto High Beam Assist
+- Automatic Tailgate
+- Bluetooth Connectivity
+- Cruise Control
+- Jaguar Connect Pro
+- Electric Power Assisted Steering
+- Electronic Active Differential with Torque Vectoring by Braking
+- SVR Badge
+- SVR Steering
+- Traffic Sign Recognition with Adaptive Speed Limiter
+- Voice Control
+- Switchable Active Exhaust
+- Heated Steering
+- 12-way adjustable Performance seats featuring memory function
+And much more!",False,False,jaguar-f-pace-39cmt
+335,volvo-s60,2019,4500000,20000,white,Ready for Import,2000,Automatic,Petroleum,Saloon,2WD,Leather,"2019 VOLVO S60 Inscription Plus 🔥🔥
+
+Ready to Import from Japan 🇯🇵
+
+✨ TOTAL COST TO NAIROBI: KSHS 4,500,000 ✨
+DEPOSIT 30%.
+
+Spec: 2000cc Turbocharged Mild Hybrid Petrol Engine | 8 Speed Automatic Transmission 
+Mileage: 20,000km 
+
+⚡️250 BHP with 350NM of Torque ⚡️
+
+Features:
+
+- Sunroof
+- 360 Camera
+- 12.3 Inch Active Digital TFT Crystal Drivers Information Display
+- 9 Inch Centre Console Touch Screen
+- Bluetooth Connectivity
+- Drive Mode Settings
+- Driver Alert Control with Lane Keep Assist
+- Park Assist
+- Automatic Tailgate
+- Speed Sensitive Steering
+- Voice Activated Control for Key Functions
+- Active High Beam
+- 2-Zone Electronic Climate Control with CleanZone Air Quality
+- B-Pillar Ventilation
+- Automatic Active Bending LED Headlights
+- Adaptive LED Brake Lights
+- Dual Exhaust
+- Nappa Heated and Ventilated Soft Leather Interior
+- Lumbar Support and Memory Front Seats
+- Stability and Traction Control with Spin Control, Engine Drag Control, and Corner - - Traction Control
+- Slippery Road and Hazard Light Alert
+- SIPS Side Impact Protection System
+- Whiplash Protection System
+And much more!",False,True,volvo-s60-37z5h
+333,bmw-x4,2018,5200000,17000,red,Ready for Import,2000,Automatic,Petroleum,SUV,AWD,Leather,-,False,False,bmw-x4-w096j
+332,mercedes-benz-e53,2019,8300000,58500,black,Ready for Import,3000,Automatic,Petroleum,SUV,AWD,Leather,"2019 Mercedes E53 AMG 4Matic Plus  💎💎 
+
+Ready to Import from Japan 🇯🇵
+
+✨ TOTAL COST TO NAIROBI: KSH 8,300,000 ✨
+
+Specifications:
+- 3000cc Turbocharged Inline 6 Petrol Engine (Mild Hybrid)
+- 9-Speed Automatic Transmission
+- 4Matic 4WD 
+- 429 Horsepower with 520 NM of Torque ⚡️⚡️
+- Mileage: 58,500 Km 
+
+Features:
+- Burmester Sound System with 13 Speakers (Premium concert-quality audio)
+- Sliding Panoramic Roof
+- 12.3"" Widescreen Digital Instrument Cluster
+- 360-View Camera
+- Active Parking Assist
+- Wireless Charging
+- AMG DYNAMIC SELECT (Multiple Driving Modes)
+- Apple CarPlay and Android Auto
+- Voice Control (Linguatronic)
+- Instrument Cluster with AMG Menu including Racetimer
+- Paddle Shifters
+- Black Nappa Leather with Red Contrast Stitching
+- Heated & Ventilated Seats with Lumbar Support and Seat Massage
+- Red Seat Belts
+- Traffic Sign Assist
+- Attention Assist
+- Blind Spot Monitoring (BSM)
+- AMG Sports Suspension (Air Suspension) with Adaptive Damping System
+- EQ Boost
+- AMG Bodystyling
+- Multibeam LED Intelligent Light System with Adaptive High-beam Assist
+- Interior Lighting - 64 Colour Ambient Lighting
+- Diamond Grille and much more!",False,False,mercedes-benz-e53-qzz05
+330,toyota-harrier,2017,3750000,84000,black,Foreign used,2000,Automatic,Petroleum,SUV,2WD,Leather,-,False,False,toyota-harrier-3u5kn
+329,mercedes-benz-gle 400,2018,8700000,66100,white,Locally used,2996,Automatic,Petroleum,Coupes,4WD,Leather,"2018 Mercedes GLE 400, 4MATIC, Genuine Low mileage. Purchased brand new locally, one owner since new, well maintained and serviced, in pristine condition.",False,False,mercedes-benz-gle-400-q7ykr
+328,toyota-harrier,2018,3850000,63000,black,Foreign used,2000,Automatic,Petroleum,SUV,2WD,Leather,-,False,False,toyota-harrier-btari
+327,mazda-cx-5,2017,3400000,55000,black,Foreign used,2000,Automatic,Petroleum,SUV,2WD,Cloth,-,False,False,mazda-cx-5-pc82b
+326,audi-sq5,2018,6500000,18000,navy blue,Ready for Import,3000,Automatic,Petroleum,SUV,AWD,Leather,"TOTAL COST TO NAIROBI: KSHS 6,500,000
+
+DEPOSIT 30%.
+
+Spec: 3000cc Turbocharged V6 Petrol Engine | 8 Speed Automatic Transmission | Quattro 4WD
+
+⚡️354 Horsepower with 500 NM of Torque ⚡️
+
+In Metallic Moonlight Blue and Black Fine Nappa Leather with Rock Grey Interior Stitching.
+
+Features: Wireless Charging, Heated Seats, Powered Seats, Audi Phone Box with Wireless Charging, Audi Virtual Cockpit (Digital Display), Bluetooth Connectivity, Cruise Control, 3 Zone Climate Control, Dynamic Suspension, LED Headlights, LED Rear lights, Audi Parking System Plus (Park Assist), Light and Rain Sensors, Powered Tailgate, Audi Sport Alloy Wheels and much more.
+
+Audi Approved Pre Owned Unit.",False,False,audi-sq5-zhv5o
+325,toyota-land cruiser prado,2017,6950000,47000,white,Foreign used,2800,Automatic,Diesel,SUV,4WD,Leather,"2017 Toyota LandCruiser TZ.G 
+2800cc Diesel
+Mileage: 47,000km
+
+Features: Sunroof, 360 View Camera, Height Control, Multi-Terrain System, Leather Interior, 7 Seater, Heated Seats, Electric Seat Controls, 4WD, Multi Zone Climate Control, Push to Start, Keyless Entry, Traction Control, Adaptive Cruise Control, Steering Controls, Electric Seat Controls, Dunlop Grandtrek All Terriain Tyres, Parking Sensors, Day time Running Lights, Headlight Washers and much more.",True,False,toyota-land-cruiser-prado-aftfn
+324,nissan-note,2018,1400000,86000,silver,Foreign used,1200,Automatic,Petroleum,Hatchback,2WD,Cloth,-,False,False,nissan-note-tyed1
+323,toyota-fielder,2017,1920000,81000,blue,Foreign used,1500,Automatic,Petroleum,Wagon,2WD,Cloth,-,False,False,toyota-fielder-0sys8
+322,mazda-axela,2017,1950000,37000,navy blue,Foreign used,1500,Automatic,Petroleum,Saloon,2WD,Cloth,-,True,False,mazda-axela-5afvm
+321,toyota-fortuner,2017,6750000,82600,bronze,Foreign used,2800,Automatic,Diesel,SUV,4WD,Leather,-,False,False,toyota-fortuner-azdf9
+320,land rover-discovery iv,2012,3400000,90520,gray,Locally used,3000,Automatic,Diesel,SUV,AWD,Leather,-,True,False,land-rover-discovery-iv-a905i
+319,toyota-harrier,2017,3900000,55600,white,Foreign used,2000,Automatic,Petroleum,SUV,2WD,Leather,-,False,False,toyota-harrier-z32sr
+318,lexus-nx,2016,5300000,48500,gold,Foreign used,2000,Automatic,Petroleum,SUV,4WD,Leather,-,True,False,lexus-nx-n6mgr
+317,audi-a3,2010,1100000,97500,red,Locally used,1800,Automatic,Petroleum,Hatchback,2WD,Leather,-,True,False,audi-a3-vdfrx
+316,volkswagen-tiguan,2017,3850000,53000,black,Foreign used,1400,Automatic,Petroleum,Mini SUV,2WD,Alcantara,-,False,False,volkswagen-tiguan-c1l5n
+315,mercedes-benz-gle,2023,25000000,1500,silver,Foreign used,2000,Automatic,Diesel,SUV,4WD,Leather,"Panoramic Roof, Android Auto & Apple Carplay, Bluetooth Connectivity, 12.3"" Instrument Cluster/Digital Display, DYNAMIC SELECT with a choice of driving modes (ECO, Comfort, Sport, Sport+ and Individual), Automatic Tailgate, Hey Mercedes Voice Activation, Traffic Sign Assist, Attention Assist and much more.
+
+Like New Condition.
+
+Reach out to your trusted used and new car dealer for this or something similar.",False,False,mercedes-benz-gle-mbsro
+314,jeep-grand cherokee,2014,4100000,110000,white,Locally used,3600,Automatic,Petroleum,SUV,4WD,Leather,"All-Terrain BF Goodrich Tyres, H&R (German) Wheel spacers all around, K&N cold air intake, Straight pipe exhaust system, New genuine oil cooler, New front brake pads, New Suspension air compressor and much.",False,False,jeep-grand-cherokee-6t1sy
+313,toyota-land cruiser,2017,11300000,88000,white,Foreign used,4600,Automatic,Petroleum,SUV,4WD,Leather,-,False,False,toyota-land-cruiser-97c8r
+312,suzuki-escudo,2015,2150000,106500,gray,Locally used,1600,Automatic,Petroleum,SUV,4WD,Alcantara,-,False,False,suzuki-escudo-crb2w
+311,nissan-note,2017,1350000,71000,silver,Foreign used,1200,Automatic,Petroleum,Hatchback,2WD,Cloth,-,False,False,nissan-note-0qd2a
+310,toyota-harrier,2016,4000000,71000,black,Foreign used,2000,Automatic,Petroleum,SUV,2WD,Leather,-,False,False,toyota-harrier-jybcf
+309,mazda-cx-5,2016,2750000,96000,silver,Foreign used,2200,Automatic,Diesel,SUV,AWD,Cloth,-,False,False,mazda-cx-5-k60lu
+308,mazda-demio,2016,1330000,69300,blue,Locally used,2000,Automatic,Diesel,Hatchback,2WD,Cloth,-,False,False,mazda-demio-9jllh
+307,audi-q5,2011,2500000,129000,gray,Locally used,2000,,Petroleum,SUV,4WD,Leather,S-Line.,False,False,audi-q5-s9qig
+306,mazda-cx-5,2016,2900000,83000,black,Foreign used,2200,Automatic,Diesel,SUV,AWD,Leather,-,True,False,mazda-cx-5-9fj6i
+305,mazda-atenza,2016,2150000,139500,white,Foreign used,2200,Automatic,Diesel,Wagon,2WD,Leather,-,False,False,mazda-atenza-k6rva
+304,mercedes-benz-glc,2016,5950000,83000,silver,Foreign used,2000,Automatic,Petroleum,SUV,AWD,Leather,-,False,False,mercedes-benz-glc-oci90
+303,toyota-fielder,2016,1850000,113000,silver,Foreign used,1500,Automatic,Petroleum,Wagon,2WD,Cloth,-,False,False,toyota-fielder-wls8j
+302,lexus-nx,2016,5350000,60000,white,Foreign used,2500,Automatic,Petroleum,SUV,2WD,Leather,-,False,False,lexus-nx-mz8gg
+301,land rover-defender,2010,3600000,160000,silver,Locally used,2400,Manual,Diesel,SUV,4WD,Leather,-,False,True,land-rover-defender-annss
+300,subaru-outback,2005,880000,159000,white,Locally used,2500,Automatic,Petroleum,SUV,AWD,Leather,-,True,False,subaru-outback-dc9nm
+299,toyota-voxy,2017,2700000,87000,black,Foreign used,2000,Automatic,Petroleum,Minivan,2WD,Cloth,-,False,False,toyota-voxy-mllpu
+298,mercedes-benz-c200,2012,2180000,166000,white,Locally used,1800,Automatic,Petroleum,Saloon,2WD,Leather,-,False,False,mercedes-benz-c200-xbput
+297,nissan-note,2017,1350000,65200,green,Foreign used,1200,Automatic,Petroleum,Hatchback,2WD,Cloth,-,True,False,nissan-note-b7bw8
+296,toyota-land cruiser,2000,1400000,150,gold,Locally used,4200,Automatic,Petroleum,SUV,4WD,Leather,1999 Toyota Landcruiser Cygnus V8,True,False,toyota-land-cruiser-tfx0f
+295,mazda-axela,2016,1900000,31000,gray,Foreign used,1500,Automatic,Petroleum,Saloon,2WD,Cloth,-,True,False,mazda-axela-99noj
+294,land rover-discovery iv,2010,3350000,172000,silver,Locally used,3000,Automatic,Diesel,SUV,4WD,Leather,-,True,False,land-rover-discovery-iv-wiu6s
+293,toyota-ractis,2016,1630000,28100,silver,Foreign used,1500,Automatic,Petroleum,Hatchback,2WD,Cloth,-,True,False,toyota-ractis-wcle2
+292,toyota-aqua,2016,1500000,111100,silver,Foreign used,1500,Automatic,Petroleum,Hatchback,2WD,Leather,-,False,False,toyota-aqua-ymcbi
+291,lexus-nx,2016,5300000,49500,black,Foreign used,2000,Automatic,,Mini SUV,2WD,Leather,-,False,False,lexus-nx-hq9m5
+290,toyota-rav4,2019,4800000,65110,gray,Foreign used,2000,Automatic,Petroleum,Mini SUV,2WD,Leather,-,False,False,toyota-rav4-oladc
+289,toyota-harrier,2017,3950000,70000,black,Foreign used,2000,Automatic,Petroleum,SUV,2WD,Leather,-,False,False,toyota-harrier-575lx
+288,mercedes-benz-e-class,2011,2600000,60500,white,Locally used,3500,Automatic,Petroleum,Saloon,2WD,Leather,-,True,False,mercedes-benz-e-class-ufwrj
+287,subaru-forester,2016,3000000,70000,black,Foreign used,2000,Automatic,Petroleum,SUV,AWD,Leather,-,False,False,subaru-forester-jeedi
+286,toyota-harrier,2017,4000000,56654,white,Foreign used,2000,Automatic,Petroleum,SUV,4WD,Leather,-,True,False,toyota-harrier-0uhfj
+284,toyota-harrier,2017,3850000,29000,white,Foreign used,2000,Automatic,Petroleum,SUV,2WD,Leather,-,False,False,toyota-harrier-82v0m
+283,subaru-forester,2015,2850000,60000,red,Foreign used,2000,Automatic,Petroleum,Mini SUV,AWD,Leather,-,False,False,subaru-forester-uu1yz
+282,toyota-allion,2008,890000,118000,silver,Locally used,1500,Automatic,Petroleum,Saloon,2WD,Cloth,One Owner Since Import.,True,False,toyota-allion-6uy45
+281,nissan-serena,2016,1800000,61300,white,Foreign used,2000,Automatic,Petroleum,Minivan,2WD,Cloth,-,True,False,nissan-serena-mfm8y
+280,bmw-x3,2015,3850000,118000,black,Foreign used,2000,Automatic,Diesel,SUV,AWD,Leather,-,False,False,bmw-x3-ylkne
+279,toyota-allion,2016,2050000,43500,silver,Foreign used,1500,Automatic,Petroleum,Saloon,2WD,Cloth,-,True,False,toyota-allion-9uxew
+278,toyota-land cruiser prado,2017,6550000,61000,brown,Foreign used,2700,Automatic,Petroleum,SUV,4WD,Leather,-,True,False,toyota-land-cruiser-prado-itipz
+277,toyota-vanguard,2012,1880000,120000,black,Locally used,2400,Automatic,Petroleum,SUV,2WD,Cloth,-,True,False,toyota-vanguard-owm8a
+276,renault-duster,2014,680000,95000,white,Locally used,1600,Manual,Petroleum,Mini SUV,2WD,Cloth,-,True,False,renault-duster-xpeta
+275,land rover-range rover sport,2023,97000,80,black,Ready for Import,3000,,Diesel,SUV,4WD,Leather,"2023 Range Rover Sport D300 Ready for Import 🚢⚓️
+
+Spec: 3.0L Diesel | Mild Hybrid (MHEV) Dynamic SE | Automatic | 4WD | Euro 6 
+
+C&F PRICE TO MOMBASA: £97,000 (Duty Not Included)
+
+Features: Santorini Black Exterior, Panoramic Roof, 23"" Alloy Wheels in Gloss Black, 13.1in Touchscreen, 20-Way Heated and Ventilated Electric Memory Front Seats with Ventilated Power Recline Rear Seats, 3D Surround Camera, ATPC - All Terrain Progress Control, Adaptive Cruise Control with Steering Assist, Air Quality Sensor, Android Auto, Apple CarPlay, Auto-Dimming Interior Rear View Mirror, Automatic Headlight Levelling, Automatic Headlights, Blind Spot Assist, Bluetooth Connectivity, CBC - Cornering Brake Control, DSC - Dynamic Stability Control, Driver Condition Response, Dynamic Air Suspension, EBD - Electronic Brake-Force Distribution, EPB - Electronic Park Brake, ETC - Electronic Traction Control, Electrically Adjustable Steering Column, Emergency Braking, Extended Leather Upgrade, Flush Deployable Door Handles, Front and Rear Parking Aid, Headlight Washers, Heated Electric Power Fold Memory Door Mirrors with Approach Lights and Auto-Dimming Driver Side, Interactive Driver Display, Keyless Entry, Lane Keep Assist, Low Traction Launch, Meridian Sound System, Pixel LED Headlights with Signature DRL, Powered Single-Piece Tailgate, RSC - Roll Stability Control, Red Brembo Brake Callipers, Rear Animated Directional Indicators, Rear Collision Monitor, Rear Traffic Monitor, Rear Wash Wiper, Terrain Response 2 including Wade Programme, Traffic Sign Recognition and Adaptive Speed Limiter, Two-Zone Climate Control, Wireless Device Charging with Phone Signal Booster and much more.",False,False,land-rover-range-rover-sport-eue5h
+274,nissan-note,2017,1340000,107000,black,Foreign used,1198,Automatic,Petroleum,Hatchback,2WD,Cloth,Nissan Note EPower (Petrol Hybrid),True,False,nissan-note-o8cyc
+273,mazda-cx-5,2016,2650000,76000,blue,Foreign used,2200,Automatic,Diesel,SUV,AWD,Cloth,-,True,False,mazda-cx-5-rx50w
+272,mazda-demio,2016,1290000,75000,black,Foreign used,1500,Automatic,Diesel,Hatchback,2WD,Cloth,-,True,False,mazda-demio-kx3eu
+271,toyota-land cruiser,2018,12800000,78000,white,Foreign used,4600,Automatic,Petroleum,SUV,4WD,Leather,-,True,False,toyota-land-cruiser-slpzg
+270,mercedes-benz-cla-class,2016,3550000,33000,pearl,Foreign used,1600,Automatic,Petroleum,Saloon,2WD,Leather,-,False,False,mercedes-benz-cla-class-p4qnt
+269,mazda-axela,2016,1830000,92000,silver,Foreign used,1500,Automatic,Petroleum,Saloon,2WD,Cloth,-,True,False,mazda-axela-jcj4w
+268,nissan-x-trail,2015,2580000,69000,black,Foreign used,2000,Automatic,Petroleum,SUV,4WD,Leather,-,False,False,nissan-x-trail-bfrsa
+267,mazda-cx-5,2016,2800000,35000,navy blue,Foreign used,2000,Automatic,Petroleum,Mini SUV,2WD,Cloth,-,True,False,mazda-cx-5-hsc4y
+266,toyota-harrier,2017,3800000,62800,black,Foreign used,2000,Automatic,Petroleum,SUV,4WD,Leather,-,False,False,toyota-harrier-q7owq
+265,toyota-auris,2016,1800000,54000,red,Foreign used,1500,Automatic,Petroleum,Hatchback,2WD,Cloth,-,True,False,toyota-auris-4ulme
+264,mazda-cx-5,2016,2600000,84000,red,Foreign used,2200,Automatic,Diesel,SUV,2WD,Cloth,-,True,False,mazda-cx-5-9z3tz
+263,toyota-aqua,2016,1450000,30000,red,Foreign used,1500,Automatic,Petroleum,Hatchback,2WD,Leather,-,True,False,toyota-aqua-njll3
+262,toyota-axio,2018,1880000,28000,black,Foreign used,1500,Automatic,Petroleum,Saloon,2WD,Cloth,Hybrid,False,False,toyota-axio-rn4xx
+261,land rover-range rover evoque,2016,5600000,77200,red,Foreign used,1990,Automatic,Petroleum,SUV,4WD,Leather,-,True,False,land-rover-range-rover-evoque-3zxad
+260,toyota-fielder,2018,1950000,72000,silver,Foreign used,1500,Automatic,Petroleum,Wagon,2WD,Cloth,-,True,False,toyota-fielder-0k8ts
+259,mazda-demio,2015,1150000,83000,gray,Foreign used,1500,Automatic,Diesel,Hatchback,2WD,Cloth,-,True,False,mazda-demio-77vyh
+258,mercedes-benz-glc,2016,6300000,56000,black,Foreign used,2000,Automatic,Petroleum,SUV,AWD,Leather,-,False,False,mercedes-benz-glc-7irvl
+257,lexus-nx200t,2016,5200000,82000,black,Foreign used,2000,Automatic,Petroleum,Mini SUV,2WD,Leather,-,True,False,lexus-nx200t-56fdw
+256,toyota-land cruiser,2017,8300000,95000,white,Foreign used,2800,Automatic,Diesel,SUV,4WD,Leather,-,True,False,toyota-land-cruiser-x6913
+254,toyota-land cruiser prado,2018,8100000,67500,black,Foreign used,2800,Automatic,Diesel,SUV,4WD,Leather,-,True,False,toyota-land-cruiser-prado-qt82y
+253,toyota-land cruiser prado,2018,7600000,107000,black,Foreign used,2700,Automatic,Petroleum,SUV,4WD,Leather,-,True,False,toyota-land-cruiser-prado-1499e
+252,toyota-land cruiser prado,2016,6950000,92000,white,Foreign used,2800,Automatic,Diesel,SUV,4WD,Leather,-,False,False,toyota-land-cruiser-prado-aupxu
+251,toyota-rav4,2020,27800,16000,black,Ready for Import,2000,Automatic,Petroleum,SUV,4WD,Leather,Overall Grade: 4.5 // Interior Grade: B // Price is CIF to Mombasa // Duty Not Paid.,False,False,toyota-rav4-nvyjj
+248,toyota-land cruiser prado,2018,37000,52000,white,Ready for Import,2800,Automatic,Diesel,SUV,4WD,Leather,"Toyota Prado TX. 
+Overall Grade: 4. Interior Grade: C. Price is CIF to Mombasa. Duty Not Paid.",True,False,toyota-land-cruiser-prado-mw8bp
+247,toyota-land cruiser prado,2021,38000,19000,gray,Ready for Import,2700,Automatic,Petroleum,SUV,4WD,Leather,"Toyota Prado TX
+Overall Grade: 5
+Interior Grade A
+Price is CIF to Mombasa. Duty Not Paid.",False,False,toyota-land-cruiser-prado-4n959
+246,toyota-hilux,2022,6300000,9000,black,Ready for Import,2400,Automatic,Diesel,Pickup,4WD,Alcantara,"Toyota Hilux GR Sport Available to Import.
+
+Overall Grade 5 - Good as New.
+Interior Grade: A
+
+Price is CIF to Mombasa. Duty Not Paid.",False,True,toyota-hilux-vbuhi
+245,toyota-corolla,2019,17800,14000,white,Ready for Import,1800,Automatic,Petroleum,Saloon,2WD,Leather,Price is CIF to Mombasa. Duty Not Paid.,False,False,toyota-corolla-kw3ut
+243,mercedes-benz-c220,2017,13200,99000,white,Ready for Import,2140,Automatic,Diesel,Saloon,2WD,Leather,"Avant Garde - AMG Line.
+
+Price is CIF to Mombasa. Duty Not Paid.",True,False,mercedes-benz-c220-igoiv
+242,lexus-nx300h,2016,5450000,92300,white,Foreign used,2500,Automatic,Petroleum,Mini SUV,2WD,Leather,"Features: Panoramic Roof, Leather Interior, Heated Seats, Driver & Co-Driver Electric Seat Controls, Multi-Function Steering, Optional Heated Steering, Reverse Camera, Bluetooth Connectivity, USB, 360 View Camera, Push to Start, ECO, Sport, and Normal Mode option, TouchPad, 8 Speakers, Optional Paddle Shifters, Cruise Control, Automatic Air Conditioning, Dual Zone A/C, 3 Position Seat Memory, Anti-Collision, Heated Side-Mirrors, Side Mirror Indicators, Parking Sensors, Daytime Running Lights, 17” Alloy Rims, and much more.",True,False,lexus-nx-skk56
+241,toyota-voxy,2014,2200000,132000,purple,Foreign used,1800,Automatic,Petroleum,Minivan,2WD,Cloth,-,False,False,toyota-voxy-xu6j1
+240,mazda-cx-5,2015,2400000,88000,silver,Foreign used,2200,Automatic,Diesel,Mini SUV,2WD,Cloth,-,True,False,mazda-cx-5-qndlc
+239,toyota-harrier,2014,3600000,110000,black,Foreign used,2000,Automatic,Petroleum,SUV,2WD,Leather,-,True,False,toyota-harrier-23vbm
+238,mercedes-benz-gle 350,2016,11300000,67000,white,Foreign used,3000,Automatic,Diesel,SUV,4WD,Leather,"Fitted with GLE63 AMG KIT. In Mombasa, Ready for Delivery",False,False,mercedes-benz-gle-350-67lwf
+237,mercedes-benz-gle 350,2016,11500000,52000,white,Foreign used,3000,Automatic,Diesel,Coupes,4WD,Leather,"In Mombasa, Ready for Delivery.",False,False,mercedes-benz-gle-350-ibac9
+233,nissan-x-trail,2015,2550000,81000,red,Foreign used,2000,Automatic,Petroleum,SUV,4WD,Leather,-,True,False,nissan-x-trail-6obp3
+232,toyota-harrier,2015,3750000,79500,white,Foreign used,2000,Automatic,Petroleum,Mini SUV,2WD,Leather,-,True,False,toyota-harrier-4fcmt
+231,toyota-auris,2015,1750000,80000,blue,Foreign used,1200,Automatic,Petroleum,Hatchback,2WD,Alcantara,"Features: Turbo Charged, Multiple Airbags, Push to Start, Multi-Function Steering, Lane Assist, Collision Assist, Cruise Control, Heated and Ventilated Seats, Half Leather Interior, Reverse Camera, Alloy Rims, Side Mirror Indicators and much more.",True,False,toyota-auris-jjnpy
+230,toyota-hiace,2015,2650000,200000,white,Foreign used,3000,Automatic,Diesel,Buses and Vans,2WD,Cloth,-,False,False,toyota-hiace-i9608
+229,subaru-outback,2015,3100000,97000,silver,Foreign used,2500,Automatic,Petroleum,SUV,AWD,Leather,-,False,False,subaru-outback-zw6aq
+227,nissan-x-trail,2014,2000000,55000,gray,Locally used,2000,Automatic,Petroleum,SUV,4WD,Leather,-,True,False,nissan-x-trail-fhrek
+226,toyota-land cruiser prado,2016,5000000,36000,gray,Locally used,2700,,Petroleum,SUV,4WD,Leather,-,True,False,toyota-land-cruiser-prado-5qcth
+224,toyota-land cruiser,2015,6500000,190000,white,Locally used,4200,Automatic,Diesel,SUV,4WD,Cloth,Local,True,False,toyota-land-cruiser-3hbds
+222,isuzu-d-max,2015,3650000,92000,green,Foreign used,2500,Manual,Diesel,Pickup,4WD,Cloth,-,False,False,isuzu-d-max-9w1c8
+221,toyota-hilux,2015,3600000,139000,white,Foreign used,2500,Manual,Diesel,Pickup,4WD,Cloth,-,False,False,toyota-hilux-p5okf
+220,toyota-land cruiser,2015,9500000,29000,white,Foreign used,4600,Automatic,Petroleum,SUV,4WD,Leather,-,False,False,toyota-land-cruiser-hdokf
+219,mazda-demio,2015,1150000,123000,white,Foreign used,1300,Automatic,Petroleum,Hatchback,2WD,Cloth,-,True,False,mazda-demio-zo951
+217,toyota-land cruiser,2015,3450000,220000,white,Locally used,4200,Manual,Diesel,Pickup,4WD,Leather,-,True,False,toyota-land-cruiser-ympi6
+216,suzuki-escudo,2015,2600000,78000,green,Foreign used,2000,Automatic,Petroleum,SUV,4WD,Leather,-,True,False,suzuki-escudo-1mzoj
+214,mitsubishi-pajero io,2003,650000,185153,white,Locally used,1800,Automatic,Petroleum,SUV,4WD,Cloth,-,False,False,mitsubishi-pajero-io-0e1td
+213,toyota-auris,2016,1750000,119000,red,Foreign used,1800,Automatic,Petroleum,Hatchback,2WD,Alcantara,Hybrid,True,False,toyota-auris-036cv
+212,toyota-land cruiser prado,2017,6680000,71000,white,Foreign used,2700,Automatic,Petroleum,SUV,4WD,Leather,-,True,False,toyota-land-cruiser-prado-9nbxx
+211,nissan-note,2015,980000,68000,black,Foreign used,1500,Automatic,Petroleum,Hatchback,2WD,Cloth,-,True,False,nissan-note-yi4jb
+210,nissan-serena,2015,1700000,126000,white,Foreign used,2000,Automatic,Petroleum,Minivan,2WD,Cloth,-,False,False,nissan-serena-are2p
+209,toyota-sienta,2017,1600000,112000,white,Foreign used,1500,Automatic,Petroleum,Wagon,2WD,Cloth,-,False,False,toyota-sienta-s4784
+206,toyota-succeed,2017,1250000,100005,silver,Foreign used,1500,Automatic,Petroleum,Hatchback,2WD,Cloth,-,False,False,toyota-succeed-e8s5q
+205,mercedes-benz-gla,2015,3550000,54000,gray,Foreign used,2000,,,SUV,AWD,Leather,-,False,True,mercedes-benz-gla-9uec5
+204,toyota-axio,2015,1650000,77000,brown,Foreign used,1500,Automatic,Petroleum,Saloon,2WD,Cloth,-,True,False,toyota-axio-c8wzb
+203,toyota-hiace,2013,2700000,150000,white,Locally used,2700,Automatic,Petroleum,Minivan,2WD,Cloth,-,False,False,toyota-hiace-wdw3u
+200,toyota-land cruiser prado,2017,6650000,77000,brown,Foreign used,2700,Automatic,Petroleum,SUV,4WD,Leather,"Toyota LandCruiser Prado G-Frontier Edition.
+
+Features: Sunroof, 360 View Camera, Brown Leather Interior, 7 Seater, Heated Seats, Dual Zone A/C, Push to Start, Keyless Entry, 4WD, Traction Control, Cruise Control, Steering Controls, Powered Seats, Day time Running Lights and much more.",True,False,toyota-land-cruiser-prado-z3f90
+198,mazda-cx-5,2015,2550000,77000,navy blue,Foreign used,2200,Automatic,Diesel,SUV,2WD,Leather,-,False,False,mazda-cx-5-1wwqh
+197,toyota-premio,2015,2050000,57000,white,Foreign used,1800,,Petroleum,Saloon,2WD,Cloth,-,False,False,toyota-premio-u3aqf
+196,honda-cr-v,2004,750000,212000,silver,Locally used,2000,Automatic,Petroleum,SUV,4WD,Cloth,-,False,False,honda-cr-v-a96p9
+195,nissan-march,2015,880000,57000,burgundy,Foreign used,1200,Automatic,Petroleum,Hatchback,2WD,Cloth,-,False,False,nissan-march-fwf70
+194,volvo-v40,2015,1800000,55000,red,Foreign used,1600,Automatic,Petroleum,Hatchback,2WD,Leather,-,True,False,volvo-v40-g6e0o
+193,toyota-harrier,2015,3600000,62104,navy blue,Foreign used,2000,Automatic,Petroleum,SUV,2WD,Leather,-,False,False,toyota-harrier-w2tw8
+192,nissan-note,2015,1000000,58000,red,Foreign used,1200,Automatic,Petroleum,Hatchback,2WD,Cloth,-,True,False,nissan-note-rhax1
+191,mitsubishi-mirage,2015,880000,53994,white,Foreign used,1000,Automatic,Petroleum,Hatchback,2WD,Cloth,-,False,False,mitsubishi-mirage-jecwq
+190,mazda-atenza,2015,2600000,37000,silver,Foreign used,2500,Automatic,Petroleum,Saloon,2WD,Leather,-,False,False,mazda-atenza-oyntr
+189,mercedes-benz-c250,2015,4250000,67000,red,Foreign used,2000,Automatic,Petroleum,Saloon,2WD,Leather,"Equipped with autonomous driving package,Nappa soft leather seats,Driver assist package,active blind spot,active self parking,active lane keep,Autonomous Presafe braking, Airmatic suspension,Heads up display,rear end collision warning,cross traffic assist,cross wind detection, Agility select suspension mode, 360°camera view,64-ambient lighting, illuminated door sills,Premium  surround system,Apple CarPlay,Air quality package, 18inch AMG rims, M274 engine 2000cc ,211bhp.AMG styling package and much more",True,False,mercedes-benz-c250-1hct7
+187,mazda-cx-5,2015,2550000,88000,red,Foreign used,2200,Automatic,Diesel,SUV,AWD,Leather,-,True,False,mazda-cx-5-8s5nw
+185,toyota-mark x,2015,2150000,62632,white,Foreign used,2500,Automatic,Petroleum,Saloon,2WD,Cloth,-,False,False,toyota-mark-x-bzp0l
+184,nissan-tiida,2011,650000,119000,silver,Locally used,1500,Automatic,Petroleum,Hatchback,2WD,Cloth,-,False,False,nissan-tiida-udfcg
+183,lexus-lx,2017,17400000,42300,black,Locally used,5700,Automatic,Petroleum,SUV,4WD,Leather,"Full Spec! 
+
+Features: Sunroof, 360 View Camera, Leather Interior, Height Control, 7 Seater, Power Front Seats, Power Sliding Split-Folding Second Row Seat Controls, Power Retractable Split-Folding Third row seats, Automatic Split Rear Tailgate, Blind Spot Monitoring, Front and Rear Parking Sensors, Mark Levinson Sound System, Heated and Ventilated Front and Second Row Seats, Heated Steering Wheel, Rear Entertainment System with two 11.6-inch Screens and Headphones, Crawl Control with Turn Assist, Hill Start Assist Control, Multi-Zone Climate Control, Push to Start, Keyless Entry, Adaptive Cruise Control, Day time Running Lights and much more!",True,False,lexus-lx-8v8mo
+181,toyota-sienta,2014,1250000,32000,red,Foreign used,1500,Automatic,Petroleum,Hatchback,2WD,Cloth,-,False,False,toyota-sienta-899hw
+180,toyota-harrier,2015,3650000,83646,white,Foreign used,2000,Automatic,Petroleum,Mini SUV,2WD,Leather,-,False,False,toyota-harrier-77rak
+179,nissan-x-trail,2015,2500000,73500,black,Foreign used,2000,Automatic,Petroleum,SUV,4WD,Leather,-,False,False,nissan-x-trail-2i2k3
+177,toyota-hilux,2015,4700000,112000,gray,Foreign used,3000,Automatic,Diesel,Pickup,4WD,Cloth,-,False,False,toyota-hilux-5d88m
+176,toyota-harrier,2015,3550000,79900,white,Foreign used,2000,Automatic,Petroleum,SUV,4WD,Leather,-,False,False,toyota-harrier-mt6bk
+175,mazda-cx-5,2016,2980000,30000,black,Foreign used,2000,Automatic,Petroleum,SUV,2WD,Cloth,-,False,False,mazda-cx-5-oska2
+173,nissan-x-trail,2015,2520000,145000,silver,Foreign used,2000,Automatic,Petroleum,SUV,4WD,Leather,-,False,False,nissan-x-trail-pvu70
+172,toyota-voxy,2015,2300000,38000,black,Foreign used,2000,Automatic,Petroleum,Minivan,2WD,Cloth,-,False,False,toyota-voxy-zub7i
+171,toyota-axio,2015,1650000,45262,silver,Foreign used,1500,Automatic,Petroleum,Saloon,2WD,Cloth,Hybrid,True,False,toyota-fielder-5huwk
+170,bmw-x1,2015,2650000,45000,black,Locally used,2000,Automatic,Petroleum,Hatchback,2WD,Alcantara,-,True,False,bmw-x1-aegtf
+169,toyota-land cruiser prado,2015,5900000,65000,white,Foreign used,2700,Automatic,Petroleum,SUV,4WD,Leather,-,True,False,toyota-land-cruiser-prado-wz5oz
+168,renault-duster,2014,880000,95000,white,Locally used,1600,Manual,Petroleum,SUV,2WD,Leather,-,True,False,renault-duster-5z21c
+167,toyota-harrier,2015,3700000,100000,black,Foreign used,2000,Automatic,Petroleum,SUV,2WD,Leather,-,True,False,toyota-harrier-csz1l
+166,mercedes-benz-e350,2009,2150000,120000,brown,Locally used,3000,Automatic,Diesel,Saloon,2WD,Leather,-,True,False,mercedes-benz-e350-harkh
+165,toyota-mark x,2006,580000,170000,white,Locally used,2500,Automatic,Petroleum,Saloon,2WD,Cloth,-,True,False,toyota-mark-x-qeul9
+164,toyota-alphard,2014,2600000,52000,black,Foreign used,2400,Automatic,Petroleum,Minivan,2WD,Cloth,"New Import, Foreign Used, Clean Condition, Toyota.",True,False,toyota-alphard-74jp1
+163,nissan-x-trail,2015,2480000,66347,white,Foreign used,2000,Automatic,Petroleum,SUV,4WD,Leather,-,False,False,nissan-x-trail-8c9ee
+162,mazda-cx-3,2015,2100000,82383,gray,Foreign used,1500,Automatic,Diesel,Hatchback,2WD,Leather,"Nano Grey Mazda CX3 with Leather Interior, one of a kind unit, in pristine condition.",False,False,mazda-cx-3-3a8ff
+160,ford-ranger,2014,4150000,75990,white,Foreign used,3200,Automatic,Diesel,Pickup,4WD,Leather,Ford Ranger Wildtrak,False,False,ford-ranger-lyapq
+159,mazda-cx-5,2015,2550000,83500,navy blue,Foreign used,2200,Automatic,Diesel,SUV,4WD,Leather,-,False,False,mazda-cx-5-bw6qf
+158,nissan-note,2015,1100000,33000,gold,Foreign used,1500,Automatic,Petroleum,Hatchback,2WD,Alcantara,-,True,False,nissan-note-pp8fe
+157,toyota-land cruiser prado,2016,6850000,65000,black,Foreign used,2800,Automatic,Diesel,SUV,4WD,Leather,-,True,False,toyota-land-cruiser-prado-akkkh
+156,toyota-auris,2016,1680000,36215,red,Foreign used,1500,Automatic,Petroleum,Hatchback,2WD,Cloth,-,True,False,toyota-auris-qy00c
+155,mazda-atenza,2011,850000,86000,navy blue,Locally used,2000,,Petroleum,Saloon,2WD,Cloth,-,True,False,mazda-atenza-ztazc
+154,toyota-land cruiser,2016,11800000,45373,black,Foreign used,4600,Automatic,Petroleum,SUV,4WD,Leather,"Toyota LandCruiser ZX Bruno Cross Edition Full Spec Option with Brown Interior, 4WD, 8 Seater, Leather Interior, Sunroof, Heated & Cooled Seats, 360 View Camera (4 Camera's), Lane Assist, Anti-Collision, Airmatic Suspension, Sport & Comfort Suspension, Cruise Control, Original 18 Speakers Surround Sound System, Blind Spot Monitor, Electric Seat Controls, 3 Position Seat Memory, Push to Start, Dual Zone and Rear A/C, Multi-Media Screen and much more.",False,False,toyota-land-cruiser-h6it9
+153,toyota-land cruiser prado,2017,6400000,33990,black,Foreign used,2700,Automatic,Petroleum,SUV,4WD,Leather,"Toyota LandCruiser Prado G-Frontier, Year 2016/12, Super Clean, Sunroof, 360 View Camera, Brown Leather Interior, 7 Seater, Dual Zone A/C, Push to Start, Electric Seat Controls, Heated Seats, Genuine Low Mileage and much more.",True,False,toyota-land-cruiser-prado-lbfpl
+152,mercedes-benz-ml 250,2015,5500000,88020,white,Foreign used,2200,Automatic,Diesel,SUV,AWD,Alcantara,-,False,False,mercedes-benz-ml-250-t2xzt
+151,mercedes-benz-gla,2015,3599000,67000,black,Foreign used,1600,Automatic,Petroleum,SUV,4WD,Alcantara,-,False,False,mercedes-benz-gla-lknjg
+150,mercedes-benz-c180,2015,3550000,42000,white,Foreign used,1600,Automatic,Petroleum,Saloon,2WD,Cloth,-,False,False,mercedes-benz-c180-trd69
+149,mitsubishi-outlander,2016,2950000,92180,navy blue,Foreign used,2000,Automatic,Petroleum,Mini SUV,2WD,Cloth,-,True,False,mitsubishi-outlander-c6urw
+148,mazda-cx-3,2015,2000000,100903,black,Foreign used,1500,Automatic,Diesel,Hatchback,2WD,Cloth,-,False,False,mazda-cx-3-qf0q2
+147,toyota-land cruiser,2008,5200000,120000,red,Locally used,4500,Automatic,Diesel,SUV,4WD,Leather,"Fully Loaded, in Pristine Condition.",True,False,toyota-land-cruiser-9hshm
+146,bmw-x3,2005,1000000,150000,white,Locally used,2500,Automatic,Petroleum,SUV,4WD,Leather,-,True,False,bmw-x3-q4asa
+145,bmw-x5,2014,6400000,67710,gray,Foreign used,3000,Automatic,Diesel,SUV,4WD,Leather,-,True,False,bmw-x5-nvagl
+144,lexus-lx,2015,15500000,56000,white,Foreign used,5700,Automatic,Petroleum,SUV,4WD,Leather,-,False,False,lexus-lx-rmcjm
+143,toyota-harrier,2014,3200000,97563,maroon,Locally used,2000,Automatic,Petroleum,Mini SUV,2WD,Leather,-,True,False,toyota-harrier-m3gcf
+142,hino-hino,2016,1980000,190000,white,Locally used,4000,Manual,Diesel,SUV,4WD,Leather,-,False,False,hino-hino-k87cr
+141,honda-odyssey,2006,560000,180000,blue,Locally used,2350,Automatic,Petroleum,SUV,2WD,Leather,"Great Family Vehicle, 7 Seater with lots of storage space, Brand New Tyres worth KES 120,000.",True,False,honda-odyssey-sk7yr
+140,lexus-lx,2016,16000000,73796,black,Foreign used,5700,Automatic,Petroleum,SUV,4WD,Leather,Lexus LX570,False,False,lexus-lx-uv2gp
+138,toyota-auris,2015,1750000,36540,red,Foreign used,1500,Automatic,Petroleum,Hatchback,2WD,Cloth,-,True,False,toyota-auris-dd9jv
+137,subaru-forester,2015,2800000,112301,silver,Foreign used,2000,Automatic,Petroleum,Mini SUV,4WD,Cloth,-,True,False,subaru-forester-hjxwb
+136,nissan-sylphy,2014,1250000,45953,brown,Foreign used,1600,Automatic,Petroleum,Saloon,2WD,Leather,-,True,False,nissan-sylphy-a6brs
+135,mercedes-benz-ml 250,2012,4100000,51674,dark_grey,Locally used,2500,Automatic,Diesel,SUV,2WD,Leather,-,False,False,mercedes-benz-ml-250-8se9d
+134,toyota-fortuner,2015,4900000,68721,white,Foreign used,3000,Automatic,Diesel,SUV,4WD,Leather,-,False,False,toyota-fortuner-lyssk
+133,nissan-patrol,2015,6550000,121504,white,Locally used,5600,Automatic,Petroleum,SUV,4WD,Leather,-,True,False,nissan-patrol-1cq21
+131,mazda-axela,2015,1650000,136236,red,Foreign used,1500,Automatic,Petroleum,Hatchback,2WD,Cloth,-,True,False,mazda-axela-lh0i0
+130,volkswagen-passat,2015,1900000,81645,silver,Foreign used,1400,Automatic,Petroleum,Hatchback,2WD,Cloth,-,True,False,volkswagen-passat-mr1mz
+129,toyota-sienta,2015,1280000,95228,red,Foreign used,1500,Automatic,Petroleum,Wagon,2WD,Cloth,-,False,False,toyota-sienta-nwgwe
+128,nissan-note,2015,960000,80000,gray,Foreign used,1200,Automatic,Petroleum,Hatchback,2WD,Cloth,-,True,False,nissan-note-ud9jd
+127,toyota-crown,2015,2650000,115000,silver,Foreign used,2500,Automatic,Petroleum,Saloon,2WD,Cloth,-,False,False,toyota-crown-5e0eu
+126,mercedes-benz-c200,2015,3850000,39774,white,Foreign used,1800,Automatic,Petroleum,Saloon,2WD,Alcantara,-,True,False,mercedes-benz-c200-j7rrj
+125,bmw-116i,2014,1600000,47000,silver,Foreign used,1600,Automatic,Petroleum,Hatchback,2WD,Alcantara,-,True,False,bmw-116i-eib6f
+123,subaru-outback,2015,3480000,79000,black,Foreign used,2500,Automatic,Petroleum,Wagon,AWD,Leather,-,True,False,subaru-outback-ascyt
+122,mercedes-benz-b180,2012,1230000,136000,black,Locally used,1600,Automatic,Petroleum,Hatchback,2WD,Leather,-,True,False,mercedes-benz-b180-54uc4
+121,mazda-demio,2016,1250000,133000,red,Foreign used,1500,Automatic,Diesel,Hatchback,2WD,Cloth,New Shape Demio on offer.,False,False,mazda-demio-ml0gz
+120,toyota-auris,2016,1700000,52762,silver,Foreign used,1500,Automatic,Petroleum,Hatchback,2WD,Cloth,Super Clean Auris New Shape on Offer.,True,False,toyota-auris-esil3
+119,land rover-discovery iv,2012,3800000,150000,gray,Locally used,3000,Automatic,Diesel,SUV,4WD,Leather,"Well maintained Discovery IV SDV6 HSE, Buy and Drive, New Battery and Recently Serviced with full service history available. 
+
+Recent valuation of 4.2M Available.",True,False,land-rover-discovery-iv-ivozc
+118,ford-ranger,2019,6500000,28000,white,Locally used,3200,Manual,Diesel,Pickup,4WD,Leather,"Local Ford Ranger on offer! This immaculate unit is practically new with genuine low mileage (28k), it comes with a warranty that covers service up-to 100,000 km.",True,False,ford-ranger-08x55
+117,mercedes-benz- c coupe,2016,4800000,83515,pearl,Foreign used,2200,Automatic,Diesel,Coupes,2WD,Leather,"Full Spec 2016 Mercedes Premium Plus Package C250D Available for Import.
+
+Finished in Pearl White with a Panoramic Sunroof, Diamond Grille, Twin Turbo, Command Sat Nav, Memory Pack, Burmester Audio System, Heated Seats, Active Park Assist with PARKTRONIC, 18"" AMG 5 Spoke Alloy Rims, Bluetooth, Electric Seats, Comfort Pack, Climate Control, Sports Seats, AMG body styling, DAB Radio, USB Interface, Bluetooth, Lumbar Support, LED daytime running lights, Rain Sensing Wipers, Electric Windows, Central Locking , Key-less Entry, Remote Boot Lock and much more.",False,False,mercedes-benz--c-coupe-b462f
+116,toyota-land cruiser prado,2012,4300000,95619,gray,Locally used,2700,Automatic,Petroleum,SUV,4WD,Cloth,"Toyota LandCruiser Prado TX, 2018 Facelift.",True,False,toyota-land-cruiser-prado-e2t18
+115,subaru-levorg,2014,1850000,80000,pearl,Foreign used,1600,Automatic,Petroleum,Wagon,2WD,Cloth,-,True,False,subaru-levorg-xtcu7
+114,lexus-ls,2011,3150000,88000,black,Locally used,4600,Automatic,Petroleum,Saloon,2WD,Leather,Full Spec Luxury Sedan.,False,False,lexus-ls-4qkev
+113,toyota-land cruiser prado,2015,6900000,54044,white,Foreign used,2800,Automatic,Diesel,SUV,4WD,Leather,"Toyota Landcruiser 2015 model equipped with the most desirable combination of pearl white & black. Comes with a full 7 seater option and 54K miles on a 2.8L turbocharged diesel engine. Extremely well maintained with the body work all original & clear of damage. Mechanically sound with all functions & components working correctly. Daytime running lights, Navigation, Reverse camera, Sunroof, Park Assist, electric folding mirrors and cruise control. Drives & looks superb.
+Call us or visit our car yard on Argwings Kodhek Road, Nairobi, Kenya to book a test drive today. We offer the best trade in deals on second hand and new cars in and around Nairobi.",True,False,toyota-land-cruiser-prado-4raa8
+112,nissan-note,2015,1080000,88969,black,Foreign used,1400,Automatic,Petroleum,Hatchback,2WD,Leather,"Nissan Note 2015 model powered by a 1.4L turbocharged petrol engine in excellent condition. Comes with an In Car Entertainment (Radio/CD), Adjustable Steering Column/Wheel, Air-Conditioning, Anti-Lock Brakes, Central Door Locking, Centre Rear Seat Belt, Air Bag Passenger, Electric Windows (Front/Rear), Seat Height Adjustment, Seats Split Rear, Surround Speakers,  Woofer, Third Brake Light, Upholstery Cloth and Alloy wheels.
+Call us or visit our car yard on Argwings Kodhek Road, Nairobi, Kenya to book a test drive today. We offer the best trade in deals on second hand and new cars in and around Nairobi",True,False,nissan-note-wh87p
+110,nissan-note,2014,680000,59356,gray,Locally used,1300,Automatic,Petroleum,Hatchback,2WD,Cloth,"Nissan Note 2014 model powered by a 1.2L petrol engine in excellent condition. Comes with an In Car Entertainment (Radio/CD), Adjustable Steering Column/Wheel, Air-Conditioning, Anti-Lock Brakes, Central Door Locking, Centre Rear Seat Belt, Air Bag Passenger, Cruise Control, Electric Windows (Front/Rear), Seat Height Adjustment, Seats Split Rear, Speakers, Third Brake Light, Traction Control System, Upholstery Cloth and Alloy wheels.
+Call us or visit our car yard on Argwings Kodhek Road, Nairobi, Kenya to book a test drive today. We offer the best trade in deals on second hand and new cars in and around Nairobi",True,False,nissan-note-c4cd6
+109,toyota-alphard,2014,2690000,90883,white,Foreign used,2500,Automatic,Petroleum,Minivan,2WD,Leather,"This 2014 Toyota Alphard is the epitome of luxury and comfort. It is powered by a 2500cc petrol engine which offers the ultimate road authority. The cruise control feature and its power steering ensure you get a safe and comfortable drive to your destination. This beauty graces the highway with it's alloy rims and xenon headlamps. The leather interior has been masterfully crafted to feel like sanctuary, with air conditioning, steering wheel controls, power adjustable front seats and arm rests. All the information you need is close at hand with the Touch interface, navigation, Bluetooth phone/audio and a premium audio system with radio. Reward yourself with a car that performs brilliantly in all conditions! Save this page and call us Now… We Know You Will Enjoy Your Test Drive Towards Ownership!",True,False,toyota-alphard-d3egw
+108,mazda-cx-5,2014,2100000,83400,red,Foreign used,2200,Automatic,Diesel,Mini SUV,4WD,Cloth,"Finished in wine red paint! This Mazda CX-5 is powered by a 2.2L diesel engine. In excellent condition. Comes with 19 inch Alloy Wheels, Front and Rear Parking Sensors, Rear Parking Camera, Keyless Entry/Lock+Go, Heated Front Seats, Electric Adjustable Front Seats with 3x Drivers and Passengers Memory, Automatic Bi-Xenon Headlights and Wipers, Cruise Control, CD/Radio/Aux/USB, Electric Windows and Mirrors with Power Folding Mirrors.Call us or visit our car yard on Argwings Kodhek Road, Nairobi, Kenya to book a test drive today. We offer the best trade in deals on second hand and new cars in and around Nairobi.",True,False,mazda-cx-5-rhoic
+107,toyota-probox,2014,1000000,0,white,Foreign used,1500,Automatic,,Wagon,2WD,Cloth,-,True,False,toyota-probox-k28zc
+106,nissan-sylphy,2014,1350000,158497,silver,Foreign used,1800,Automatic,Petroleum,Saloon,2WD,Cloth,"Our 2014 Nissan Sylphy is powered by a 1800cc petrol engine which delivers a smooth ride that is comfortable and confident. This 2 wheel powered beauty slips through the air with ease, and you will admire the bold front fascia with a mesh grille and gorgeous headlights.
+The interior features of our ride have all the style you crave with premium materials, a leather-trimmed steering wheel, supportive cloth seats, and air conditioning. You won’t miss a beat thanks to our Audio touchscreen display with Bluetooth. You’ll also enjoy plenty of space to haul your gear with a large trunk. Reward yourself with a car that performs brilliantly in all conditions! Save this page and call us Now… We Know You Will Enjoy Your Test Drive Towards Ownership!",False,False,nissan-sylphy-jxj2q
+105,nissan-x-trail,2014,2350000,124465,white,Foreign used,2000,Automatic,Petroleum,Mini SUV,4WD,Leather,"Check out the good looks on this 2014 Nissan Xtrail. It is powered with a 2000cc petrol engine which delivers a smooth ride that is comfortable and confident. This 4 wheel powered beauty slips through the air with ease, with it's dashing white color and, beautiful headlamps and alloy rims that will have you standing out from the rest. The interior features of our ride includes 7 leather seats with 2 being electric, air conditioning and, electric mirrors and be sure to never miss a beat thanks to our Audio touchscreen display with Bluetooth and connected with a reverse camera for maximum safety. You’ll also enjoy plenty of space to haul your gear with its trunk. Reward yourself with a car that performs brilliantly in all conditions! Save this page and call us Now… We Know You Will Enjoy Your Test Drive Towards Ownership!",False,False,nissan-x-trail-zdy8t
+104,mazda-cx-5,2015,2350000,69178,red,Foreign used,2200,Automatic,Diesel,Mini SUV,4WD,Cloth,"Finished in wine red paint! This Mazda CX-5 is powered by a 2.2L diesel engine. In excellent condition. Comes with 19 inch Alloy Wheels, Front and Rear Parking Sensors, Rear Parking Camera, Keyless Entry/Lock+Go, Heated Front Seats, Electric Adjustable Front Seats with 3x Drivers and Passengers Memory, Automatic Bi-Xenon Headlights and Wipers, Cruise Control, CD/Radio/Aux/USB, Electric Windows and Mirrors with Power Folding Mirrors. Call us or visit our car yard on Argwings Kodhek Road, Nairobi, Kenya to book a test drive today. We offer the best trade in deals on second hand and new cars in and around Nairobi.",True,False,mazda-cx-5-bb72c
+103,toyota-probox,2014,1000000,0,white,Foreign used,1500,Automatic,,Wagon,2WD,Cloth,Clean car,False,False,toyota-probox-7w6qd
+101,toyota-passo,2012,590000,76452,red,Locally used,1300,Automatic,Petroleum,Hatchback,2WD,Cloth,This locally used 2012 Passo is powered by a 1300cc petrol engine. The car has been kept in tip top shape and it provides a stable and comfortable drive. It's red color paired with the alloy rims and semi-tinted windows gives it a sophisticated yet simple look. The interior of this beauty has well maintained cloth seats and a modern stereo system to help you wind up after a long day at work. Reward yourself with a car that performs brilliantly in all conditions! Save this page and call us Now… We Know You Will Enjoy Your Test Drive Towards Ownership!,True,False,toyota-passo-os9s3
+100,toyota-hilux,2006,1600000,308718,gold,Locally used,2500,Automatic,Diesel,Pickup,4WD,Cloth,-,True,False,toyota-hilux-93z5n
+99,toyota-hiace,2012,1950000,1000,white,Locally used,2500,Automatic,Diesel,Buses and Vans,2WD,Cloth,-,True,False,toyota-hiace-n7lxy
+98,toyota-hiace,2015,2650000,120296,silver,Foreign used,2500,Automatic,Diesel,Buses and Vans,2WD,Cloth,Fine car,False,False,new-holland-hiace-senou
+96,toyota-voxy,2014,2200000,75189,black,Foreign used,1800,Automatic,Petroleum,Minivan,2WD,Leather,-,False,False,toyota-voxy-lf86x
+95,lexus-nx,2014,4900000,76000,white,Foreign used,2000,Automatic,Petroleum,Mini SUV,2WD,Leather,-,False,False,lexus-nx-9ruql
+94,subaru-legacy,2014,1950000,111614,white,Foreign used,2500,Automatic,Petroleum,Wagon,AWD,Cloth,-,True,False,subaru-legacy-h4kcl
+93,mazda-demio,2015,1120000,112000,silver,New,1500,Automatic,Diesel,Hatchback,2WD,Cloth,-,False,False,mazda-demio-7bsd0
+92,honda-fit,2014,1100000,119000,blue,Foreign used,1500,Automatic,Petroleum,Hatchback,2WD,Cloth,-,True,False,honda-fit-sjmsk
+91,subaru-forester,2014,2550000,72490,white,Foreign used,2400,Automatic,Petroleum,Mini SUV,AWD,Cloth,-,True,False,subaru-forester-16tok
+90,nissan-note,2014,860000,68942,gray,Foreign used,1300,Automatic,Petroleum,Hatchback,2WD,Cloth,"Nissan Note 2014 model powered by a 1.3L petrol engine in excellent condition. Comes with an In Car Entertainment (Radio/CD), Adjustable Steering Column/Wheel, Air-Conditioning, Anti-Lock Brakes, Central Door Locking, Centre Rear Seat Belt, Air Bag Passenger, Electric Windows (Front/Rear), Seat Height Adjustment, Seats Split Rear, Speakers, Third Brake Light and Upholstery Cloth.
+Call us or visit our car yard on Argwings Kodhek Road, Nairobi, Kenya to book a test drive today. We offer the best trade in deals on second hand and new cars in and around Nairobi",True,False,nissan-note-lm2wt
+89,toyota-voxy,2013,1480000,125000,white,Foreign used,2000,Automatic,Petroleum,Minivan,2WD,Cloth,-,False,False,toyota-voxy-6r9aw
+88,nissan-serena,2013,1400000,144375,silver,Foreign used,2000,Automatic,Petroleum,Minivan,2WD,Cloth,-,False,False,nissan-serena-c5t9r
+87,lexus-nx,2016,5300000,85748,white,Foreign used,2500,Automatic,Petroleum,Mini SUV,2WD,Leather,"This Lexus NX300 comes with 2.5 Litre Petrol Engine with Hybrid Motor, Adaptive Cruise Control, Adaptive Variable Suspension, Active Height Control, 3 Driving Modes (Eco, Sport, Sport+), Pre-Crash Safety System with Autonomous Emergency Braking (Detects Vehicles and Pedestrians), Lane Departure Alert with Steering Assistance, Adaptive High-Beam System, 10 Sensor Controlled SRS Airbags, 4 Zone Independent Air Conditioning, Power Boot Lid.",False,False,lexus-nx-pisuv
+86,toyota-corolla,2019,2750000,3943,blue,Foreign used,1800,Automatic,Petroleum,Saloon,2WD,Leather,This Toyota Corolla Hybrid comes with Excellent Fuel Economy of about 21 - 23km per litre.,False,False,toyota-corolla-4693c
+85,toyota-harrier,2015,3600000,87030,black,Foreign used,2000,Automatic,Petroleum,Mini SUV,4WD,Leather,-,True,False,toyota-harrier-dbgqx
+84,mitsubishi-outlander,2015,2730000,73965,red,Locally used,2500,Automatic,Petroleum,Mini SUV,4WD,Leather,LOCAL UNIT,True,False,mitsubishi-outlander-4t37b
+83,volkswagen-touareg,2006,1600000,112581,black,Locally used,2500,Automatic,Diesel,SUV,4WD,Leather,"EX UN Unit, New Suspension, In pristine condition.",True,False,volkswagen-touareg-w2nmk
+82,toyota-hilux,2015,2400000,82715,silver,Foreign used,2500,Manual,Diesel,Pickup,4WD,Cloth,"Single Cab, Vigo Highlander",True,False,toyota-hilux-f3xu7
+80,volkswagen-passat,2014,1850000,95367,white,Foreign used,1400,Automatic,Petroleum,Hatchback,2WD,Cloth,-,True,False,volkswagen-passat-x2viw
+78,toyota-hilux,2016,4600000,98751,silver,Foreign used,2800,Automatic,Diesel,Pickup,4WD,Leather,Comes fitted with a bull bar and brand new rob's magic suspension kit.,True,False,toyota-hilux-2acla
+77,maserati-ghibli,2018,6800000,18663,navy blue,Foreign used,3000,Automatic,Petroleum,Coupes,2WD,Leather,Bi Turbo Engine (Manufactured by Ferrari),False,False,maserati-ghibli-g593s
+76,toyota-hilux,2014,4000000,89200,gray,Foreign used,3000,Automatic,Diesel,Pickup,4WD,Leather,-,True,False,toyota-hilux-nt9hd
+75,toyota-hilux,2014,3750000,129498,gray,Foreign used,3000,Manual,Diesel,Pickup,4WD,Leather,-,True,False,toyota-hilux-yimzy
+74,toyota-hiace,2014,2750000,205159,white,Foreign used,3000,Automatic,Diesel,Buses and Vans,2WD,Leather,-,False,False,toyota-hiace-s91fm
+73,mercedes-benz-c200,2014,2600000,152580,silver,Foreign used,1800,Automatic,Petroleum,Saloon,2WD,Leather,-,True,False,mercedes-benz-c200-63zqe
+72,nissan-fuga,2014,1900000,76000,white,Foreign used,2500,Automatic,Petroleum,Saloon,2WD,Alcantara,Nissan Fuga (Infiniti M37),False,False,nissan-fuga-hx739
+71,toyota-vitz,2014,950000,76200,yellow,Foreign used,1300,Automatic,Petroleum,Hatchback,2WD,Cloth,-,True,False,toyota-vitz-k54fx
+70,volvo-xc60,2014,3400000,80100,red,Foreign used,3000,Automatic,Petroleum,SUV,AWD,Leather,-,True,False,volvo-xc60-synew
+69,toyota-harrier,2014,3500000,76000,white,Foreign used,2000,Automatic,Petroleum,SUV,2WD,Leather,-,True,False,toyota-harrier-4enkh
+68,mazda-cx-5,2015,2200000,58000,white,Foreign used,2200,Automatic,Diesel,SUV,4WD,Cloth,"Finished in pearl white! This Mazda CX-5 is powered by a 2.2L diesel engine. In excellent condition. Comes with 19 inch Alloy Wheels, Front and Rear Parking Sensors, Rear Parking Camera, Keyless Entry/Lock+Go, Heated Front Seats, Electric Adjustable Front Seats with 3x Drivers and Passengers Memory, Automatic Bi-Xenon Headlights and Wipers, Cruise Control, CD/Radio/Aux/USB, Electric Windows and Mirrors with Power Folding Mirrors. Call us or visit our car yard on Argwings Kodhek Road, Nairobi, Kenya to book a test drive today. We offer the best trade in deals on second hand and new cars in and around Nairobi.",False,False,mazda-cx-5-qd3gg
+67,nissan-note,2014,970000,58000,gold,Foreign used,1200,Automatic,Petroleum,Hatchback,2WD,Alcantara,"Medalist Version with Pure Drive (DIG-S). Powered by a 1.2L petrol engine in excellent condition. Comes with an In Car Entertainment (Radio/CD), Adjustable Steering Column/Wheel, Air-Conditioning, Anti-Lock Brakes, Central Door Locking, Centre Rear Seat Belt, Air Bag Passenger, Electric Windows (Front/Rear), Seat Height Adjustment, Seats Split Rear, Speakers, Third Brake Light, Traction Control System, Upholstery Alcantara and Alloy wheels.
+Call us or visit our car yard on Argwings Kodhek Road, Nairobi, Kenya to book a test drive today. We offer the best trade in deals on second hand and new cars in and around Nairobi",True,False,nissan-note-ssya1
+66,nissan-note,2014,950000,56000,white,Foreign used,1300,Automatic,Petroleum,Hatchback,2WD,Cloth,"Nissan Note 2014 model powered by a 1.3L petrol engine in excellent condition. Comes with an In Car Entertainment (Radio/CD), Adjustable Steering Column/Wheel, Air-Conditioning, Anti-Lock Brakes, Central Door Locking, Centre Rear Seat Belt, Air Bag Passenger, Electric Windows (Front/Rear), Seat Height Adjustment, Seats Split Rear, Speakers, Third Brake Light, Upholstery Cloth and Alloy wheels.
+Call us or visit our car yard on Argwings Kodhek Road, Nairobi, Kenya to book a test drive today. We offer the best trade in deals on second hand and new cars in and around Nairobi",True,False,nissan-note-68566
+65,subaru-exiga,2014,1700000,91690,black,Foreign used,2000,Automatic,,Wagon,2WD,Alcantara,-,True,False,subaru-exiga-3mhme
+64,subaru-liberty,2018,3400000,47983,white,Foreign used,2000,Automatic,Petroleum,Saloon,4WD,Cloth,-,True,False,subaru-liberty-i2fbv
+63,toyota-vanguard,2014,3300000,60782,white,Foreign used,2400,,Petroleum,SUV,4WD,Cloth,-,True,False,toyota-vanguard-2i666
+62,mazda-atenza,2014,1900000,46000,red,Foreign used,2000,Automatic,Petroleum,Saloon,2WD,Leather,Mazda 6,True,False,mazda-atenza-yzjpl
+61,honda-stepwagon,2014,1670000,89860,gray,Foreign used,2000,Automatic,Petroleum,Buses and Vans,2WD,Cloth,-,False,False,honda-stepwagon-upcit
+60,toyota-harrier,2014,3800000,83894,black,Foreign used,2000,Automatic,Petroleum,SUV,4WD,Leather,-,True,False,toyota-harrier-4gbre
+59,toyota-crown,2013,2450000,76000,black,Foreign used,2400,Automatic,Petroleum,Saloon,2WD,Cloth,-,False,False,toyota-crown-gha40
+58,toyota-hilux,2013,3900000,88780,black,Foreign used,3000,Automatic,Diesel,Pickup,4WD,Leather,Pickup 4WD,True,False,toyota-hilux-0ipv6
+57,toyota-hiace,2014,2450000,66600,silver,Foreign used,3000,Automatic,Diesel,Buses and Vans,4WD,Cloth,Light Commercial Van,False,False,toyota-hiace-cemei
+56,toyota-fielder,2014,1500000,72000,white,Foreign used,1800,Automatic,Petroleum,Saloon,2WD,Cloth,Sedan/Station Wagon,True,False,toyota-fielder-okmam
+55,mercedes-benz-e250,2014,4500000,61588,gray,Foreign used,2000,Automatic,Petroleum,Saloon,2WD,Leather,E-Series,False,False,mercedes-benz-e250-bcl1l
+54,nissan-advan,2014,780000,63000,silver,Foreign used,1500,Automatic,Petroleum,Minivan,,Cloth,Van/Wagon,True,False,nissan-advan-gd4bc
+47,nissan-x-trail,2014,2200000,53000,white,Foreign used,2000,Automatic,Petroleum,SUV,4WD,Leather,-,False,False,nissan-x-trail-l8nrk
+45,mazda-atenza,2014,1600000,11,blue,Foreign used,2200,Automatic,Diesel,Wagon,2WD,Cloth,-,True,False,mazda-atenza-oyq28
+41,volkswagen-touareg,2003,1100000,11,blue,Locally used,2500,Automatic,Diesel,SUV,4WD,Cloth,-,True,False,volkswagen-touareg-mi6oh
+40,toyota-vitz,2014,930000,56919,silver,Foreign used,1300,,Petroleum,Hatchback,2WD,Cloth,-,True,False,toyota-vitz-h2ecp
+38,toyota-aqua,2012,950000,111,orange,Locally used,1500,Automatic,Petroleum,Hatchback,2WD,Leather,Hybrid,True,False,toyota-aqua-7awd9
+35,toyota-crown,2009,1700000,187,black,Locally used,4800,Automatic,Petroleum,Saloon,2WD,Leather,Fully Loaded with Powerful V8 Engine.,True,False,toyota-crown-nqlgo
+34,toyota-land cruiser prado,2019,7800000,10151,white,Foreign used,2700,Automatic,Petroleum,SUV,4WD,Leather,"7 Seater, Fully Loaded Option.",True,False,toyota-land-cruiser-prado-t9tp2
+33,toyota-fielder,2015,1500000,129422,silver,Foreign used,1500,Automatic,Petroleum,Wagon,2WD,Cloth,-,True,False,toyota-fielder-xj8jj
+32,honda-fit,2014,1100000,126567,white,Foreign used,1500,Automatic,Diesel,Hatchback,2WD,Cloth,-,True,False,honda-fit-imqim
+31,bmw-116i,2014,1650000,64900,navy blue,Foreign used,1600,Automatic,Petroleum,Hatchback,2WD,Cloth,-,True,False,bmw-1-series-nu0co
+30,toyota-voxy,2015,2100000,77420,white,Foreign used,1800,Automatic,Petroleum,Minivan,2WD,Cloth,-,True,False,toyota-voxy-0yu61
+29,toyota-vellfire,2015,4500000,75900,white,Foreign used,2400,Automatic,Petroleum,Minivan,2WD,Leather,-,False,False,toyota-vellfire-vhdn0
+28,nissan-x-trail,2014,2450000,49634,black,Foreign used,2000,Automatic,Petroleum,SUV,4WD,Cloth,-,False,False,nissan-x-trail-vebtp
+27,nissan-x-trail,2014,2450000,74922,green,Foreign used,2000,Automatic,Petroleum,SUV,4WD,Leather,-,False,False,nissan-x-trail-2zcru
+26,nissan-teana,2014,1450000,84363,white,Foreign used,2500,Automatic,Petroleum,Saloon,2WD,Leather,-,False,False,nissan-teana-nyje6
+25,nissan-skyline,2014,1850000,68392,black,Foreign used,2500,Automatic,Petroleum,Saloon,2WD,Leather,-,False,False,nissan-skyline-5wqu5
+24,nissan-nv200,2014,1150000,86437,gray,Foreign used,1600,Automatic,,Minivan,2WD,Cloth,-,True,False,nissan-nv200-hxrnw
+23,nissan-note,2014,850000,66032,brown,Foreign used,1500,,Petroleum,Hatchback,2WD,Cloth,"Nissan Note 2014 model powered by a 1.5L petrol engine in excellent condition. Comes with an In Car Entertainment (Radio/CD), Adjustable Steering Column/Wheel, Air-Conditioning, Central Door Locking, Centre Rear Seat Belt, Air Bag Passenger, Electric Windows (Front/Rear), Seat Height Adjustment, Seats Split Rear, Speakers, Third Brake Light, Upholstery Cloth and Alloy wheels.
+Call us or visit our car yard on Argwings Kodhek Road, Nairobi, Kenya to book a test drive today. We offer the best trade in deals on second hand and new cars in and around Nairobi",True,False,nissan-note-ley3c
+22,nissan-juke,2014,1300000,56746,black,Foreign used,1500,Automatic,Petroleum,SUV,2WD,Cloth,-,False,False,nissan-juke-mx5mh
+21,nissan-fuga,2014,2200000,89300,black,Foreign used,2500,Automatic,Petroleum,Saloon,2WD,Leather,-,False,False,nissan-fuga-2p8e9
+20,mini-cooper,2014,1550000,58034,black,Foreign used,1600,Automatic,Petroleum,Hatchback,2WD,Cloth,-,False,False,mini-cooper-hp0al
+19,mazda-atenza,2014,1550000,83894,red,Foreign used,2000,Automatic,Diesel,Saloon,2WD,Leather,-,True,False,mazda-atenza-8vr2h
+18,lexus-rx,2014,4250000,110000,white,Foreign used,3000,Automatic,Petroleum,SUV,4WD,Leather,RX300 Hybrid,False,False,lexus-rx-78nxn
+17,lexus-is,2014,3500000,47500,black,Foreign used,2000,Automatic,Petroleum,Saloon,2WD,Leather,-,False,False,lexus-is-e7v1i
+16,subaru-legacy,2014,2500000,63205,white,Foreign used,2500,Automatic,Petroleum,Wagon,AWD,Leather,-,False,False,subaru-legacy-ksxwv
+15,jaguar-xe 25t,2014,3,54030,red,Foreign used,2000,Automatic,Diesel,Saloon,2WD,Cloth,-,True,False,jaguar-xf-v32ou
+14,toyota-harrier,2014,3650000,38000,white,Foreign used,2000,Automatic,Petroleum,SUV,4WD,Leather,-,False,False,toyota-harrier-i6shb
+13,toyota-harrier,2014,3700000,53000,black,Foreign used,2000,Automatic,Petroleum,SUV,4WD,Leather,-,False,False,toyota-harrier-4n0k0
+12,volkswagen-golf,2015,2100000,57000,white,Foreign used,2000,Automatic,Petroleum,Saloon,2WD,Cloth,GTI,True,False,volkswagen-golf-im97p
+11,bmw-x6,2014,6200000,47000,white,Foreign used,3000,Automatic,Petroleum,SUV,4WD,Leather,-,True,False,bmw-x6-u4c7t
+10,bmw-320d,2014,2300000,46000,black,Foreign used,2000,Automatic,Diesel,Saloon,2WD,Cloth,-,False,False,bmw-320d-qns76
+9,bmw-320d,2014,2400000,46350,black,Foreign used,2000,Automatic,Diesel,Saloon,2WD,Leather,-,False,False,bmw-320d-dtr0u
+7,toyota-auris,2014,1550000,48000,black,Foreign used,1500,Automatic,Petroleum,Hatchback,2WD,Cloth,-,True,False,toyota-auris-1q0q0
+6,toyota-allion,2014,1550000,67000,silver,Foreign used,1800,Automatic,Petroleum,Saloon,2WD,Cloth,-,True,False,toyota-allion-lr85u
+5,mercedes-benz-a180,2014,1850000,53000,white,Foreign used,1600,Automatic,Petroleum,Hatchback,2WD,Leather,-,False,False,mercedes-benz-a180-ix8k4
+4,bmw-x1,2016,3100000,56000,white,Foreign used,2000,Automatic,Petroleum,SUV,2WD,Leather,-,False,False,bmw-x1-1kxli
